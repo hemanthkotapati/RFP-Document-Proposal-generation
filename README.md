@@ -4,4 +4,4 @@ download necessary packages
 in terminal:
 cd Code_Files
 
-streamlit run appy.py
+streamlit run app.py
